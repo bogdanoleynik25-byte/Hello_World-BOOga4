@@ -1,5 +1,5 @@
 
-    Directory: C:\Users\Богдан\OneDrive\Документы\informatika\zolotareva_mm\projects_3\task_3_2\GenomicData
+    Directory: C:\Users\Богдан\OneDrive\Документы\informatika\oleynik_mm\projects_3\task_3_2\GenomicData
 
 Mode                 LastWriteTime         Length Name
 ----                 -------------         ------ ----
